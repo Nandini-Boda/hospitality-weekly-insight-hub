@@ -1,128 +1,201 @@
 # Hospitality Weekly Insight Hub
-### Hospitality Business Intelligence & Executive Performance Dashboard
+### Executive Performance & Operational Intelligence
 
-**A centralized dashboard for monitoring hospitality performance, analyzing operational trends and supporting management decision-making.**
+**A centralized hospitality business intelligence dashboard bringing revenue, brand experience, workforce and property performance together in one reporting experience.**
 
-[View Live Dashboard](ADD_APPROVED_DASHBOARD_LINK) | [View Dashboard Screenshots](screenshots/)
+<p align="center">
+  <a href="#dashboard-preview">Dashboard Preview</a> &nbsp;·&nbsp;
+  <a href="#project-overview">Project Overview</a> &nbsp;·&nbsp;
+  <a href="#my-role--contributions">My Contributions</a> &nbsp;·&nbsp;
+  <a href="#project-documentation">Documentation</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Hospitality%20Analytics-17365D?style=flat-square" alt="Hospitality Analytics" />
+  <img src="https://img.shields.io/badge/Focus-Business%20Intelligence-287A72?style=flat-square" alt="Business Intelligence" />
+  <img src="https://img.shields.io/badge/Platform-Lovable-6C63FF?style=flat-square" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Data-Google%20BigQuery-4285F4?style=flat-square" alt="Google BigQuery" />
+</p>
 
 ---
 
-## 1. Project Overview
+## Dashboard Preview
 
-Hospitality Weekly Insight Hub is an interactive business intelligence dashboard designed to bring key hospitality performance indicators into one centralized reporting experience.
+<p align="center">
+  <img src="screenshots/Executive%20Review/dashboard-overview.png" alt="Hospitality Weekly Insight Hub — Executive Dashboard" width="100%" />
+</p>
 
-The dashboard provides visibility into revenue performance, brand and guest experience, workforce analytics, property operations and executive review points.
+<p align="center">
+  <strong>One consolidated view. Five business perspectives. Better-informed decisions.</strong>
+</p>
 
-It is designed to help management teams understand business performance, identify areas requiring attention and support informed operational discussions through visual reporting.
+<p align="center">
+  <a href="ADD_APPROVED_PUBLIC_DASHBOARD_URL">
+    <strong>↗ Explore the Live Dashboard</strong>
+  </a>
+</p>
 
-## 2. Business Problem
+*Replace the preview image path and live dashboard placeholder with the actual approved public links.*
 
-Hospitality operations involve multiple business functions, each generating different performance metrics and operational information.
+---
 
-When these metrics are reviewed separately, management may find it difficult to:
+## 01. Project Overview
 
-- Get a consolidated view of overall business performance.
-- Compare performance across properties and business areas.
-- Monitor revenue, targets and operational trends.
-- Identify guest experience and workforce-related concerns.
-- Track important discussion points requiring management attention.
+Hospitality Weekly Insight Hub is an interactive business intelligence dashboard developed to bring important hospitality performance indicators into a centralized reporting environment.
 
-A centralized reporting solution was needed to bring these different perspectives together.
+The dashboard combines five key business perspectives — Revenue, Brand, People, Property and Executive Review — to provide a structured view of operational performance and management insights.
 
-## 3. Proposed Solution
+It is designed to make business information easier to explore, compare and review through interactive visual reporting.
 
-Hospitality Weekly Insight Hub brings multiple business reporting areas together in one interactive dashboard.
+## 02. Business Challenge
 
-The solution organizes important information into five key sections:
+Hospitality businesses operate across multiple functions, each with its own performance indicators, reporting requirements and operational priorities.
 
-- **Revenue:** Revenue performance, sales trends, targets and upselling insights.
-- **Brand:** Guest ratings, reviews and brand-level performance.
-- **People:** Workforce information and training attendance.
-- **Property:** Property-level operational indicators and guest complaints.
-- **Executive Review:** Important discussion points and management follow-ups.
+When information is maintained and reviewed across separate reporting sources, obtaining a consolidated view of business performance can become challenging.
 
-This structure provides a consolidated view of business performance while allowing users to explore individual reporting areas.
+Key challenges include:
 
-## 4. Dashboard Preview
+- Limited visibility across different business functions.
+- Difficulty comparing performance and tracking targets.
+- Fragmented revenue, guest experience and workforce reporting.
+- Challenges in identifying operational concerns and emerging trends.
+- The need for a structured view of management discussion points and follow-up actions.
 
-![Hospitality Weekly Insight Hub](screenshots/dashboard-overview.png)
+**The opportunity:** Bring these business perspectives together through a unified dashboard experience.
 
-*Replace this image with the actual dashboard overview screenshot.*
+## 03. The Solution
 
-## 5. Key Dashboard Capabilities
+Hospitality Weekly Insight Hub organizes business reporting into five interconnected dashboard sections.
 
-| Area | Reporting Capabilities |
+The solution provides a consolidated reporting experience where users can explore individual business areas while maintaining visibility into the broader operational picture.
+
+### The Five Dashboard Perspectives
+
+| Business Area | Reporting Focus |
 |---|---|
-| Revenue Analytics | Revenue trends, sales performance and target comparisons |
-| Brand Analytics | Guest ratings, reviews and brand performance |
-| People Analytics | Workforce metrics and training attendance |
-| Property Analytics | Operational indicators and guest complaints |
-| Executive Review | Management discussion points and follow-up tracking |
+| **Revenue Intelligence** | Revenue performance, sales trends, targets and upselling insights |
+| **Brand Intelligence** | Guest ratings, reviews and brand performance |
+| **People Analytics** | Workforce information and training attendance |
+| **Property Performance** | Operational indicators and guest complaint monitoring |
+| **Executive Review** | Management discussion points and follow-up tracking |
 
-## 6. My Role & Contributions
+---
 
-As part of a collaborative dashboard development project, my involvement included contributing to the dashboard's design, reporting structure and data integration.
+## 04. Dashboard Experience
+
+### 01 — Revenue Intelligence
+
+Monitor revenue performance, sales trends, target comparisons and upselling opportunities through dedicated reporting views.
+
+<p align="center">
+  <img src="screenshots/Revenue/revenue-overview.png" alt="Revenue Intelligence Dashboard" width="100%" />
+</p>
+
+### 02 — Brand Intelligence
+
+Explore guest ratings, review performance and brand-level insights to understand the guest experience.
+
+<p align="center">
+  <img src="screenshots/Brand/brand-overview.png" alt="Brand Intelligence Dashboard" width="100%" />
+</p>
+
+### 03 — People Analytics
+
+Review workforce-related information and training attendance through structured people analytics reporting.
+
+<p align="center">
+  <img src="screenshots/People/people-overview.png" alt="People Analytics Dashboard" width="100%" />
+</p>
+
+### 04 — Property Performance
+
+Monitor property-level operational indicators and guest complaints to identify areas requiring attention.
+
+<p align="center">
+  <img src="screenshots/Property/property-overview.png" alt="Property Performance Dashboard" width="100%" />
+</p>
+
+### 05 — Executive Review
+
+Bring management discussion points and follow-up items into a structured review experience.
+
+<p align="center">
+  <img src="screenshots/Executive%20Review/executive-review.png" alt="Executive Review Dashboard" width="100%" />
+</p>
+
+*The image paths above are suggested filenames. Replace them with the actual uploaded screenshot paths in the repository.*
+
+---
+
+## 05. Key Capabilities
+
+- **Consolidated Reporting:** Multiple hospitality business functions presented within one dashboard.
+- **Performance Monitoring:** Visual reporting of important operational and business indicators.
+- **Comparative Analysis:** Review performance across reporting areas and available comparisons.
+- **Interactive Exploration:** Explore dashboard information through available reporting filters and views.
+- **Executive Visibility:** Bring key insights and management discussion points into one reporting experience.
+
+## 06. My Role & Contributions
+
+This project was developed collaboratively. My involvement focused on contributing to the dashboard development and business reporting experience.
 
 My contributions included:
 
-- Working on the organization of business requirements into meaningful dashboard sections.
-- Contributing to dashboard development and visual presentation using Lovable.
-- Working with Google BigQuery as the reporting data source.
-- Supporting the migration of reporting dependencies from Google Sheets to BigQuery-based demo tables.
-- Contributing to the presentation of business KPIs, trends and operational insights.
-- Organizing information into reporting views that support management review.
+- Participating in the organization of business requirements into meaningful dashboard sections.
+- Contributing to dashboard development and visual presentation.
+- Working with business reporting requirements across revenue, brand, people and property functions.
+- Contributing to the integration of Google BigQuery as a reporting data source.
+- Supporting the presentation of business KPIs, operational trends and management insights.
+- Helping structure reporting views for easier business performance review.
 
-## 7. Skills & Tools Applied
+The project represents a collaborative effort to translate hospitality reporting requirements into an interactive business intelligence experience.
 
-**Dashboard Development**
-- Lovable
-- Dashboard layout and visual design
-- Interactive reporting
+## 07. Skills & Tools
 
-**Data & Analytics**
-- Google BigQuery
-- Data integration
-- Business KPI reporting
-- Performance analysis
-- Data visualization
+| Area | Skills & Tools |
+|---|---|
+| Dashboard Development | Lovable, dashboard design, interactive reporting |
+| Data & Analytics | Google BigQuery, data integration, business KPI reporting |
+| Data Visualization | Performance charts, trend analysis, visual reporting |
+| Business Intelligence | Hospitality analytics, operational reporting, executive insights |
+| Business Understanding | Requirement analysis, reporting structure, business performance monitoring |
 
-**Business & Reporting Skills**
-- Requirement understanding
-- Hospitality business reporting
-- Operational performance monitoring
-- Executive reporting
-- Translating business needs into dashboard views
+## 08. Business Value
 
-## 8. Business Value
-
-The dashboard demonstrates how multiple hospitality reporting areas can be presented through a centralized business intelligence solution.
+The dashboard demonstrates how multiple hospitality reporting perspectives can be brought together into a centralized business intelligence solution.
 
 It supports:
 
-- Better visibility into key business performance indicators.
-- Easier review of performance across different business functions.
-- Identification of trends and operational concerns.
-- Structured management discussions and follow-up tracking.
-- More informed, data-supported business decisions.
+- A consolidated understanding of business performance.
+- Easier review of important operational indicators.
+- Better visibility into revenue and guest experience trends.
+- Structured monitoring of workforce and property-related information.
+- More organized management discussions and follow-up reviews.
 
-## 9. Dashboard Screenshots
+**The overall objective is to make hospitality business information more accessible, understandable and useful for decision-making.**
 
-| Dashboard Section | Preview |
+## 09. Project Documentation
+
+Additional project information is available in the repository:
+
+| Document | Description |
 |---|---|
-| Revenue Insights | ![Revenue](screenshots/revenue-insights.png) |
-| Brand & Guest Experience | ![Brand](screenshots/brand-insights.png) |
-| People Analytics | ![People](screenshots/people-analytics.png) |
-| Property Performance | ![Property](screenshots/property-performance.png) |
-| Executive Review | ![Executive Review](screenshots/executive-review.png) |
+| [Architecture](docs/architecture.md) | Overview of the dashboard and data architecture |
+| [Data Dictionary](docs/data-dictionary.md) | Reference for the reporting data concepts |
+| [Dashboard Modules](docs/dashboard-modules.md) | Details of the dashboard sections and their reporting focus |
 
 ## 10. Data & Privacy
 
-This public repository is intended for professional portfolio presentation. Public screenshots and examples should contain only approved demonstration or sanitized data.
+This repository is intended for professional portfolio presentation.
 
-No confidential business information, personal guest or employee information, credentials or private system identifiers are included intentionally.
+Public screenshots and examples should contain only approved demonstration or sanitized data. Confidential business information, personal guest or employee details, credentials and private system identifiers must not be published.
+
+Any publicly shared dashboard link should be reviewed to ensure that it exposes only approved demonstration content.
 
 ---
 
-**Project Category:** Hospitality Analytics | Business Intelligence | Dashboard Development
-
-*Developed as part of a collaborative hospitality dashboard project.*
+<p align="center">
+  <strong>Hospitality Analytics · Business Intelligence · Dashboard Development</strong>
+  <br/>
+  <sub>A collaborative dashboard development project focused on hospitality performance and executive insights.</sub>
+</p>
