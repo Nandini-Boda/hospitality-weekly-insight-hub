@@ -22,7 +22,7 @@
 ## Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/Executive%20Review/dashboard-overview.png" alt="Hospitality Weekly Insight Hub — Executive Dashboard" width="100%" />
+  <img src="screenshots/Revenue.png" alt="Hospitality Weekly Insight Hub — Revenue Dashboard" width="100%" />
 </p>
 
 <p align="center">
@@ -30,12 +30,10 @@
 </p>
 
 <p align="center">
-  <a href="ADD_APPROVED_PUBLIC_DASHBOARD_URL">
-    <strong>↗ Explore the Live Dashboard</strong>
+  <a href="ADD_CORRECT_HOSPITALITY_WEEKLY_INSIGHT_HUB_LIVE_URL">
+    <strong>↗ VIEW LIVE DASHBOARD</strong>
   </a>
 </p>
-
-*Replace the preview image path and live dashboard placeholder with the actual approved public links.*
 
 ---
 
@@ -88,7 +86,7 @@ The solution provides a consolidated reporting experience where users can explor
 Monitor revenue performance, sales trends, target comparisons and upselling opportunities through dedicated reporting views.
 
 <p align="center">
-  <img src="screenshots/Revenue/revenue-overview.png" alt="Revenue Intelligence Dashboard" width="100%" />
+  <img src="screenshots/Revenue.png" alt="Revenue Intelligence Dashboard" width="100%" />
 </p>
 
 ### 02 — Brand Intelligence
@@ -96,7 +94,7 @@ Monitor revenue performance, sales trends, target comparisons and upselling oppo
 Explore guest ratings, review performance and brand-level insights to understand the guest experience.
 
 <p align="center">
-  <img src="screenshots/Brand/brand-overview.png" alt="Brand Intelligence Dashboard" width="100%" />
+  <img src="screenshots/Brand.png" alt="Brand Intelligence Dashboard" width="100%" />
 </p>
 
 ### 03 — People Analytics
@@ -104,7 +102,7 @@ Explore guest ratings, review performance and brand-level insights to understand
 Review workforce-related information and training attendance through structured people analytics reporting.
 
 <p align="center">
-  <img src="screenshots/People/people-overview.png" alt="People Analytics Dashboard" width="100%" />
+  <img src="screenshots/People.png" alt="People Analytics Dashboard" width="100%" />
 </p>
 
 ### 04 — Property Performance
@@ -112,7 +110,7 @@ Review workforce-related information and training attendance through structured 
 Monitor property-level operational indicators and guest complaints to identify areas requiring attention.
 
 <p align="center">
-  <img src="screenshots/Property/property-overview.png" alt="Property Performance Dashboard" width="100%" />
+  <img src="screenshots/Property.png" alt="Property Performance Dashboard" width="100%" />
 </p>
 
 ### 05 — Executive Review
@@ -120,10 +118,8 @@ Monitor property-level operational indicators and guest complaints to identify a
 Bring management discussion points and follow-up items into a structured review experience.
 
 <p align="center">
-  <img src="screenshots/Executive%20Review/executive-review.png" alt="Executive Review Dashboard" width="100%" />
+  <img src="screenshots/point%20to%20discuss.png" alt="Executive Review Dashboard" width="100%" />
 </p>
-
-*The image paths above are suggested filenames. Replace them with the actual uploaded screenshot paths in the repository.*
 
 ---
 
